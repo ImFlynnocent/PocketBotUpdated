@@ -1,0 +1,30 @@
+{
+  "name": "pocketbot",
+  "version": "1.0.0",
+  "description": "The Best Discord Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UmairGamer0/PocketBot.git"
+  },
+  "author": "UmairGamerYT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UmairGamer0/PocketBot/issues"
+  },
+  "homepage": "https://github.com/UmairGamer0/PocketBot#readme",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.js": "^12.2.0",
+    "ffmpeg-static": "^4.2.6",
+    "fs": "0.0.1-security",
+    "lyrics-finder": "^21.0.5",
+    "simple-youtube-api": "^5.2.1",
+    "soundcloud-downloader": "^0.1.2",
+    "ytdl-core": "^3.1.2",
+    "ytdl-core-discord": "^1.2.1"
+  }
+}
